@@ -1,13 +1,13 @@
 # مستودع ضوابط الأمن السيبراني CIS باللغة العربية
 ## Arabic CIS Controls Repository
 
-### 🌍 نظرة عامة | Overview
+### نظرة عامة | Overview
 
 يهدف هذا المستودع إلى توفير ترجمة شاملة وتطبيق عملي لضوابط الأمن السيبراني الحرجة من مركز أمان الإنترنت (CIS) باللغة العربية، لمساعدة المؤسسات في الوطن العربي على تبني وتطبيق أفضل الممارسات في الأمن السيبراني.
 
-This repository aims to provide a comprehensive Arabic translation and practical implementation guide for the CIS Critical Security Controls to help organizations in the Arab world adopt and implement cybersecurity best practices.
+This repository aims to provide an Arabic translation and practical implementation guide for the CIS Critical Security Controls to help organizations in the Arab world adopt and implement cybersecurity best practices.
 
-### 📋 الضوابط الـ18 لـ CIS v8.1 | CIS v8.1 Controls
+### الضوابط الـ18 لـ CIS v8.1 | CIS v8.1 Controls
 
 | رقم الضابط | اسم الضابط | Implementation Groups |
 |------------|-------------|----------------------|
@@ -30,7 +30,7 @@ This repository aims to provide a comprehensive Arabic translation and practical
 | 17 | إدارة الاستجابة للحوادث | IG2, IG3 |
 | 18 | اختبارات الاختراق | IG3 |
 
-### 🏗️ هيكل المستودع | Repository Structure
+### هيكل المستودع | Repository Structure
 
 ```
 arabic-cis-controls/
@@ -68,7 +68,7 @@ arabic-cis-controls/
     └── large-corporation.md       # مثال شركة كبيرة
 ```
 
-### 🎯 مجموعات التطبيق | Implementation Groups
+### مجموعات التطبيق | Implementation Groups
 
 #### المجموعة الأولى IG1 - الوقاية السيبرانية الأساسية
 - **الهدف**: الحماية من الهجمات الشائعة غير المستهدفة
@@ -85,7 +85,7 @@ arabic-cis-controls/
 - **المؤسسات المستهدفة**: المؤسسات عالية المخاطر والبنية التحتية الحيوية
 - **عدد الضوابط**: جميع الـ153 إجراء وقائي
 
-### 🌍 الربط مع الأطر الوطنية العربية | Mapping to Arab National Frameworks
+### الربط مع الأطر الوطنية العربية | Mapping to Arab National Frameworks
 
 هذا المستودع يربط ضوابط CIS مع الأطر الوطنية التالية:
 
@@ -95,7 +95,7 @@ arabic-cis-controls/
 - **قطر**: الاستراتيجية الوطنية للأمن السيبراني (NCSS)
 - **عمان**: سياسات وزارة النقل والاتصالات وتقنية المعلومات
 
-### 🚀 كيفية الاستخدام | How to Use
+### كيفية الاستخدام | How to Use
 
 1. **ابدأ بالمقدمة**: اقرأ [docs/introduction.md](docs/introduction.md)
 2. **حدد مجموعة التطبيق**: راجع [docs/implementation-groups.md](docs/implementation-groups.md)
@@ -103,7 +103,7 @@ arabic-cis-controls/
 4. **استخدم القوالب**: من مجلد [templates/](templates/)
 5. **راجع الأمثلة العملية**: من مجلد [examples/](examples/)
 
-### 🤝 المساهمة | Contributing
+### المساهمة | Contributing
 
 نرحب بالمساهمات من المجتمع العربي لتحسين هذا المستودع:
 
@@ -112,11 +112,11 @@ arabic-cis-controls/
 - تطوير قوالب وأدوات جديدة
 - ربط مع أطر وطنية إضافية
 
-### 📄 الترخيص | License
+### الترخيص | License
 
 هذا المشروع مرخص تحت [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-### 📞 التواصل | Contact
+### التواصل | Contact
 
 للاستفسارات والمساهمات، يرجى فتح قضية (Issue) جديدة أو التواصل عبر البريد الإلكتروني.
 
